@@ -1,27 +1,27 @@
-## Hi, I'm Emelyn 😄
+# Hi, I'm Emelyn 😄
 
-I am an M.Sc. candidate in Meteorology at the University of São Paulo, working on the spatiotemporal variability of deep convection, precipitation, and lightning activity in the Amazon Basin.
+I am an M.Sc. student in Meteorology at the University of São Paulo (USP), with a background in Meteorology from Universidad Nacional Agraria La Molina (UNALM), Peru.
 
-My work focuses on atmospheric data analysis, remote sensing, geospatial analysis, scientific visualization, and the processing of large atmospheric datasets using Python and open-source tools.
+My research focuses on the spatiotemporal variability of deep convection, precipitation, and lightning activity in the Amazon Basin. I work with atmospheric data analysis, remote sensing, geospatial analysis, and scientific visualization using Python and open-source tools.
 
-# Research interests
+## 🔎 Research interests
 
-* Tropical meteorology
-* Deep convection and precipitation
-* Lightning activity
-* Remote sensing
-* Atmospheric data processing
-* Geospatial analysis
-* Scientific workflow automation
+- Tropical meteorology  
+- Deep convection and precipitation  
+- Lightning activity  
+- Remote sensing  
+- Hydrometeorological data analysis  
+- Geospatial analysis  
 
-# Technical skills
+## 🛠️ Skills
 
-* Python, Bash, Linux, SQL
-* Xarray, NumPy, Pandas, Matplotlib, Cartopy
-* NetCDF data processing
-* GIS and geospatial analysis
-* Scientific visualization and reproducible workflows
+- Python, Bash, Linux, SQL, Fortran  
+- Xarray, NumPy, Pandas, Matplotlib, Cartopy  
+- NetCDF data processing  
+- ArcGIS, QGIS, Google Earth  
+- Looker Studio, Google Sheets  
+- LaTeX, Overleaf, Git, GitHub  
 
-# Featured work
+## 📂 GitHub focus
 
-I use this GitHub profile to organize research scripts, data processing workflows, visualization tools, and reproducible examples related to meteorology and atmospheric sciences.
+I use this profile to share research scripts, data processing workflows, visualization tools, and reproducible examples related to meteorology and atmospheric sciences.
