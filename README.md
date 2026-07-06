@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Emelyn 😄
 
-<!--
-**emelynhc/emelynhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.Sc. candidate in Meteorology at the University of São Paulo, working on the spatiotemporal variability of deep convection, precipitation, and lightning activity in the Amazon Basin.
 
-Here are some ideas to get you started:
+My work focuses on atmospheric data analysis, remote sensing, geospatial analysis, scientific visualization, and the processing of large atmospheric datasets using Python and open-source tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research interests
+
+* Tropical meteorology
+* Deep convection and precipitation
+* Lightning activity
+* Remote sensing
+* Atmospheric data processing
+* Geospatial analysis
+* Scientific workflow automation
+
+## Technical skills
+
+* Python, Bash, Linux, SQL
+* Xarray, NumPy, Pandas, Matplotlib, Cartopy
+* NetCDF data processing
+* GIS and geospatial analysis
+* Scientific visualization and reproducible workflows
+
+## Featured work
+
+I use this GitHub profile to organize research scripts, data processing workflows, visualization tools, and reproducible examples related to meteorology and atmospheric sciences.
