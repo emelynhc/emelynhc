@@ -4,7 +4,7 @@ I am an M.Sc. candidate in Meteorology at the University of São Paulo, working 
 
 My work focuses on atmospheric data analysis, remote sensing, geospatial analysis, scientific visualization, and the processing of large atmospheric datasets using Python and open-source tools.
 
-## Research interests
+# Research interests
 
 * Tropical meteorology
 * Deep convection and precipitation
@@ -14,7 +14,7 @@ My work focuses on atmospheric data analysis, remote sensing, geospatial analysi
 * Geospatial analysis
 * Scientific workflow automation
 
-## Technical skills
+# Technical skills
 
 * Python, Bash, Linux, SQL
 * Xarray, NumPy, Pandas, Matplotlib, Cartopy
@@ -22,6 +22,6 @@ My work focuses on atmospheric data analysis, remote sensing, geospatial analysi
 * GIS and geospatial analysis
 * Scientific visualization and reproducible workflows
 
-## Featured work
+# Featured work
 
 I use this GitHub profile to organize research scripts, data processing workflows, visualization tools, and reproducible examples related to meteorology and atmospheric sciences.
