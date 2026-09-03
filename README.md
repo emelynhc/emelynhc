@@ -1,15 +1,14 @@
-<h1 align="center">Hi, I'm Emelyn 🐱🐾</h1>
 
-<h3 align="center">
-M.Sc. Student in Meteorology at the University of São Paulo (USP) | Atmospheric Data Analysis | Remote Sensing
-</h3>
+# Hi, I'm Emelyn
+
+## M.Sc. Student in Atmospheric Sciences at the University of São Paulo (USP)
 
 <p align="center">
 
 <p align="center">🌧️ My research focuses on the spatiotemporal variability of deep convection, precipitation, and lightning activity in the Amazon Basin. I work with atmospheric data analysis, remote sensing, geospatial analysis, and scientific visualization using Python and open-source tools.
 </p>
 
-## ☁️ Research interests
+### ☁️ Research interests
 
 - Tropical meteorology  
 - Deep convection and precipitation  
@@ -18,7 +17,7 @@ M.Sc. Student in Meteorology at the University of São Paulo (USP) | Atmospheric
 - Hydrometeorological data analysis  
 - Geospatial analysis  
 
-## ✨ Skills
+### ✨ Skills
 
 - Python, Bash, Linux, SQL, Fortran  
 - Xarray, NumPy, Pandas, Matplotlib, Cartopy  
@@ -27,7 +26,7 @@ M.Sc. Student in Meteorology at the University of São Paulo (USP) | Atmospheric
 - Looker Studio, Google Sheets  
 - LaTeX, Overleaf, Git, GitHub  
 
-## 📂 GitHub focus
+### 📂 GitHub focus
 
 I use this profile to share research scripts, data processing workflows, visualization tools, and reproducible examples related to meteorology and atmospheric sciences.
 
