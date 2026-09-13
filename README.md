@@ -10,12 +10,12 @@
 
 ### ☁️ Research interests
 
-- Tropical meteorology  
-- Deep convection and precipitation  
-- Lightning activity  
-- Remote sensing  
-- Hydrometeorological data analysis  
-- Geospatial analysis  
+- Tropical convection
+- Precipitation
+- Lightning activity
+- Remote sensing
+- Hydrometeorological data analysis
+- Geospatial analysis
 
 ### ✨ Skills
 
