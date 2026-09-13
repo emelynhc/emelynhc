@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<p align="center">🌧️ My research focuses on the spatiotemporal variability of deep convection, precipitation, and lightning activity in the Amazon Basin. I work with atmospheric data analysis, remote sensing, geospatial analysis, and scientific visualization using Python and open-source tools.
+<p align="center">🌧️ My research focuses on the spatiotemporal variability of convection, precipitation, and lightning activity in the Amazon Basin. I work with atmospheric data analysis, remote sensing, geospatial analysis, and scientific visualization using Python and open-source tools.
 </p>
 
 ### ☁️ Research interests
